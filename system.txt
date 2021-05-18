@@ -5,5 +5,4 @@ D //beta
 D //beta/b1
 D //beta//b2
 D ///gamma
-F ///gamma/g1.txt
-D ///gamma//g.txt
+F ////trail1.txt
