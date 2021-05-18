@@ -8,6 +8,10 @@ Each node contains the following data:
 4. ChildPtr: Points to the first child node.
 5. SibiblingPtr: Points to the node which belongs to the same parent node.
 
+To run the program use the following commands:
+1. gcc *.c
+2. ./a.out
+
 It works with the following commands:
 mkdir, rmdir, pwd, cd, ls, creat, rm, save, reload, menu, quit.
 
